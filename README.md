@@ -1,5 +1,7 @@
 ## Реализация игры Minesweeper (JS, HTML, CSS)
 
+### ![Иллюстрация к проекту](https://github.com/dancinginthedarkk/minesweeper_game/raw/master/illustration.png)
+
 ### Инструкция к запуску проекта:
 1. Склонировать репозиторий (git clone)
 2. Находясь в корне проекта выполнить команду npm install
