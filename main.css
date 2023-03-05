@@ -1,0 +1,10 @@
+@import './styles/smile.css';
+@import './styles/cells.css';
+@import './styles/numbers.css';
+@import './styles/container.css';
+
+body {
+    background-color: #bad3eb;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}

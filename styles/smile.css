@@ -1,0 +1,27 @@
+.smile {
+    width: 26px;
+    height: 26px;
+    border: 0;
+    background-color: #7b7b7b;
+    background-image: url(https://davmedia.test.tech-mail.ru/editor_uploads/2023/02/07/minesweeper-sprites_9TPZzv3.png);
+}
+
+.smile-good {
+    background-position: -1px -25px;
+}
+
+.smile:active {
+    background-position: -28px -25px;;
+}
+
+.smile-lose {
+    background-position: -109px -25px;
+}
+
+.smile-win {
+    background-position: 57px -25px;
+}
+
+.smile-shocked {
+    background-position: 84px -25px;
+}

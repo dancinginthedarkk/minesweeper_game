@@ -1,0 +1,69 @@
+
+.cell {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    background-color: #bbb;
+    background-image: url('https://davmedia.test.tech-mail.ru/editor_uploads/2023/02/07/minesweeper-sprites_9TPZzv3.png');
+    background-position: -16px -51px;
+}
+
+.hidden {
+    background-position: 1px -51px;
+}
+
+.revealed {
+    background-position: 0 0;
+}
+
+.question {
+    background-position: -50px -50px;
+}
+
+.flag {
+    background-position: -33px -50px;
+}
+
+.mine {
+    background-position: -84px -50px;
+}
+
+.mine-red {
+    background-position: 39px -51px;
+}
+
+.mine-flag {
+    background-position: -119px -50px;
+}
+
+.cell-number-1 {
+    background-position: 1px -67px;
+}
+
+.cell-number-2 {
+    background-position: -16px -67px;
+}
+
+.cell-number-3 {
+    background-position: -33px -67px;
+}
+
+.cell-number-4 {
+    background-position: -50px -67px;
+}
+
+.cell-number-5 {
+    background-position: -67px -67px;
+}
+
+.cell-number-6 {
+    background-position: -84px -67px;
+}
+
+.cell-number-7 {
+    background-position: -101px -67px;
+}
+
+.cell-number-8 {
+    background-position: -118px -67px;
+}

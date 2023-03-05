@@ -1,0 +1,46 @@
+.num {
+    background-image: url(https://davmedia.test.tech-mail.ru/editor_uploads/2023/02/07/minesweeper-sprites_9TPZzv3.png);
+    width: 15px;
+    height: 24px;
+    display: inline-block;
+}
+
+.num-1 {
+    background-position: 1px 0;
+}
+
+.num-2 {
+    background-position: -13px 0;
+}
+
+.num-3 {
+    background-position: -27px 0;
+}
+
+.num-4 {
+    background-position: -41px 0;
+}
+
+.num-5 {
+    background-position: -55px 0;
+}
+
+.num-6 {
+    background-position: -69px 0;
+}
+
+.num-7 {
+    background-position: -83px 0;
+}
+
+.num-8 {
+    background-position: -98px 0;
+}
+
+.num-9 {
+    background-position: -112px 0;
+}
+
+.num-0 {
+    background-position: 14px 0;
+}
